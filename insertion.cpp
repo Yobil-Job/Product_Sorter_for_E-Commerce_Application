@@ -12,14 +12,14 @@ void viwer(){
     cout<<"...............................Insertion Sort By Price...................................\n";
     cout<<"\n\nBefore Sorting:\n";
     for (const Product& product : productList3){
-    cout<<"Id->"<<product.id<<"  name->"<<product.name<<"||  price==>"<<product.price<<endl;
+    cout<<"Id->"<<product.id<<"  Name->"<<product.name<<"||  Price==>"<<product.price<<endl;
     }
     cout<<"----------------------------------------------------------------------------------------------\n";
     insertion_sort(productList3, n);
 
     cout<<"\n\nAfter Sorting:\n";
     for (const Product& product : productList3){
-    cout<<"Id->"<<product.id<<"  name->"<<product.name<<"||  price==>"<<product.price<<endl;
+    cout<<"Id->"<<product.id<<"  Name->"<<product.name<<"||  Price==>"<<product.price<<endl;
     }
     cout<<"----------------------------------------------------------------------------------------------\n";
     cout<<"\n\nDESCRIPTION\n\n";
@@ -42,8 +42,7 @@ void insertion_sort(vector<Product>& productList3,int n){
          for(int j=i; j>0 && temp.price<productList3[j-1].price;j--){
             productList3[j]=productList3[j-1];
             productList3[j-1]=temp;
-            
-        }
+            }
     }
 }
 
