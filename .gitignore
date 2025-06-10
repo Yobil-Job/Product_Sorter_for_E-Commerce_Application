@@ -1,0 +1,35 @@
+# C++ specific ignores
+*.o
+*.obj
+*.lo
+*.la
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+*.out
+*.app
+*.bin
+*.ilk
+*.pdb
+*.suo
+*.user
+*.ncb
+*.aps
+*.pch
+*.idb
+*.opt
+*.res
+*.stackdump
+*.tds
+*.coff
+*.bbl
+*.log
+*.aux
+
+# Executables
+home.exe
+
+# IDE specific ignores
+.vscode/ 
