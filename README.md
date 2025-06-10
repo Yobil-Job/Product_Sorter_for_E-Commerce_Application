@@ -86,5 +86,3 @@ To compile and run this application, follow these steps:
     ```bash
     ./home.exe
     ```
-
-    123
