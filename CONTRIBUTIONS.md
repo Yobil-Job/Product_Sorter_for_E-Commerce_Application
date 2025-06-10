@@ -30,6 +30,7 @@ Each team member played a vital role in the successful completion of this projec
 *   **Role**: Algorithm Developer.
 *   **Key Contributions**:
     *   Developed and implemented the `selection.cpp` module, containing the Selection Sort algorithm.
+    *   Actively participated
 
 ### 4. Abeje Goshu
 *   **Role**: Algorithm Developer.
