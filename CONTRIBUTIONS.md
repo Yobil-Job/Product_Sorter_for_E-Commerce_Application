@@ -18,7 +18,7 @@ Each team member played a vital role in the successful completion of this projec
     *   Developed all essential header files (`.h` files) to ensure modularity and proper linking.
     *   Organized and facilitated team meetings, ensuring smooth project progression and task coordination.
 
-### 2. Naol Birhanu
+### 2. Naol Birhanu(ID: NSR/753/16)
 *   **Role**: Communication Lead and Algorithm Developer.
 *   **Key Contributions**:
     *   Facilitated effective communication channels among all team members, ensuring everyone was aligned.
