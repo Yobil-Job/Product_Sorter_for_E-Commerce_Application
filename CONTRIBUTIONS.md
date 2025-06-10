@@ -10,7 +10,7 @@
 
 Each team member played a vital role in the successful completion of this project. Below are their specific contributions and responsibilities.
 
-### 1. Eyob Weldetensay (ID: NSR/339/16)
+### 1. Eyob Weldetensay (ID: NSR/339/16)    github: (Yobil-job)
 *   **Role**: Project Lead, Architect, and Core Developer.
 *   **Key Contributions**:
     *   Designed and structured the entire project codebase from the ground up.
@@ -18,7 +18,7 @@ Each team member played a vital role in the successful completion of this projec
     *   Developed all essential header files (`.h` files) to ensure modularity and proper linking.
     *   Organized and facilitated team meetings, ensuring smooth project progression and task coordination.
 
-### 2. Naol Birhanu(ID: NSR/753/16)
+### 2. Naol Birhanu(ID: NSR/753/16)   github: (naol-e)
 *   **Role**: Communication Lead and Algorithm Developer.
 *   **Key Contributions**:
     *   Facilitated effective communication channels among all team members, ensuring everyone was aligned.
@@ -27,25 +27,25 @@ Each team member played a vital role in the successful completion of this projec
     *   Played a crucial role in identifying and resolving various bugs, and introduced innovative implementation techniques to improve code quality and efficiency.
     *  Actively participated 
    
-### 3. Yordanos Tekalign(ID: NSR/1630/16)
+### 3. Yordanos Tekalign(ID: NSR/1630/16)    github: (yordanos1219)
 *   **Role**: Algorithm Developer.
 *   **Key Contributions**:
     *   Developed and implemented the `selection.cpp` module, containing the Selection Sort algorithm.
     *   Actively participated
 
-### 4. Abeje Goshu(ID: NSR/017/16)
+### 4. Abeje Goshu(ID: NSR/017/16)   github: (abeloper )
 *   **Role**: Algorithm Developer.
 *   **Key Contributions**:
     *   Developed and implemented the `bubble.cpp` module, containing the Bubble Sort algorithm.
     *   Actively participated
 
-### 5. Yemisirach(ID: NSR/1616/16)
+### 5. Yemisirach(ID: NSR/1616/16)   github: (Olyam-713)
 *   **Role**: Algorithm Developer. 
 *   **Key Contributions**:
     *   Developed and implemented `sort_by_price_ecommerce.cpp`, handling the sorting of products by price within the e-commerce application.
     *  contribute by providing way to beautify the console app 
 
-### 6. Kibra Gebretsadkan
+### 6. Kibra Gebretsadkan  github: (hewig21)
 *   **Role**: Algorithm Developer.
 *   **Key Contributions**:
     *   Developed and implemented the `insertion.cpp` module, containing the Insertion Sort algorithm.
