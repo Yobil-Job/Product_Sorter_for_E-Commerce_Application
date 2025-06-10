@@ -36,6 +36,7 @@ Each team member played a vital role in the successful completion of this projec
 *   **Role**: Algorithm Developer.
 *   **Key Contributions**:
     *   Developed and implemented the `bubble.cpp` module, containing the Bubble Sort algorithm.
+    *   Actively participated
 
 ### 5. Yemisirach(ID: NSR/1616/16)
 *   **Role**: Algorithm Developer. 
