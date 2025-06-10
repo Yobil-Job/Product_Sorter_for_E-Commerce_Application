@@ -35,5 +35,15 @@ void viwer(){
     
 }
 
-
+void insertion_sort(vector<Product>& productList3,int n){
+    Product temp;
+    for(int i=1;i<n;i++){
+       temp=productList3[i];
+         for(int j=i; j>0 && temp.price<productList3[j-1].price;j--){
+            productList3[j]=productList3[j-1];
+            productList3[j-1]=temp;
+            
+        }
+    }
+}
 
