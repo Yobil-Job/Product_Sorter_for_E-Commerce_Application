@@ -35,7 +35,7 @@ Each algorithm test will visually demonstrate the sorting process and, in a futu
 A `screenshots` folder within the project root contains images of the console output, illustrating various stages and functionalities of the application.
 
 <p align="center">
-  <img src="screenshots/ds1.png" alt="Screenshot 1: Main Menu" width="550"/>
+  <img src="screenshots/ds1.png" alt="Screenshot 1: Main Menu" width="750"/>
   <br>
   <em>Main Menu - ds1.png</em>
 </p>
