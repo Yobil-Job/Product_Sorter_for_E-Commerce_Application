@@ -9,7 +9,7 @@ vector<Product> productList3;
 void viwer(){
     productList3=productList;
     int n = productList3.size();
-    cout<<"...............................Insertion Sort By Price...................................\n";
+    cout<<"...............................Insertion Sort By Price of product...................................\n";
     cout<<"\n\nBefore Sorting:\n";
     for (const Product& product : productList3){
     cout<<"Id->"<<product.id<<"  Name->"<<product.name<<"||  Price==>"<<product.price<<endl;
