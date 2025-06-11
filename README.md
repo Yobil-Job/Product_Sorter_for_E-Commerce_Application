@@ -31,6 +31,18 @@ Each algorithm test will visually demonstrate the sorting process and, in a futu
 
 ---
 
+## 🎥 Demo GIF
+
+<p align="center">
+  <img src="screenshots/dsaa-ezgif.com-optimize.gif" alt="Demo GIF" width="850"/>
+  <br>
+  <em>Demonstration of the application</em>
+</p>
+
+---
+
+---
+
 ## 📸 Screenshots
 A `screenshots` folder within the project root contains images of the console output, illustrating various stages and functionalities of the application.
 
