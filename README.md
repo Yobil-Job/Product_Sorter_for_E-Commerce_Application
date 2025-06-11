@@ -35,32 +35,32 @@ Each algorithm test will visually demonstrate the sorting process and, in a futu
 A `screenshots` folder within the project root contains images of the console output, illustrating various stages and functionalities of the application.
 
 <p align="center">
-  <img src="screenshots/ds1.png" alt="Screenshot 1: Main Menu" width="400"/>
+  <img src="screenshots/ds1.png" alt="Screenshot 1: Main Menu" width="850"/>
   <br>
   <em>Main Menu - ds1.png</em>
 </p>
 <p align="center">
-  <img src="screenshots/ds2.png" alt="Screenshot 2: Sorting Algorithms Test Menu" width="400"/>
+  <img src="screenshots/ds2.png" alt="Screenshot 2: Sorting Algorithms Test Menu" width="850"/>
   <br>
   <em> E-Commerce App Menu - ds2.png</em>
 </p>
 <p align="center">
-  <img src="screenshots/ds3.png" alt="Screenshot 3: Quick Sort By Price Example" width="400"/>
+  <img src="screenshots/ds3.png" alt="Screenshot 3: Quick Sort By Price Example" width="850"/>
   <br>
   <em>Product List - ds3.png</em>
 </p>
 <p align="center">
-  <img src="screenshots/ds4.png" alt="Screenshot 4: Product List" width="400"/>
+  <img src="screenshots/ds4.png" alt="Screenshot 4: Product List" width="850"/>
   <br>
   <em>Products Sorted by Price - ds4.png</em>
 </p>
 <p align="center">
-  <img src="screenshots/ds5.png" alt="Screenshot 5: Products Sorted by Price" width="400"/>
+  <img src="screenshots/ds5.png" alt="Screenshot 5: Products Sorted by Price" width="850"/>
   <br>
   <em>Sorting Algorithms Test Menu- ds5.png</em>
 </p>
 <p align="center">
-  <img src="screenshots/ds6.png" alt="Screenshot 6: E-Commerce App Menu" width="400"/>
+  <img src="screenshots/ds6.png" alt="Screenshot 6: E-Commerce App Menu" width="850"/>
   <br>
   <em>Quick Sort By Price - ds6.png</em>
 </p>
@@ -85,4 +85,10 @@ To compile and run this application, follow these steps:
 3.  **Run the executable:**
     ```bash
     ./home.exe
-    ``` 
+    ```
+ # Acknowledgments
+
+We would like to extend our sincere thanks to our instructor, [yitulema@gmail.com], for assigning this project and encouraging collaboration among students. This opportunity not only helps us apply what we've learned but also fosters valuable teamwork and real-world development practices.
+
+
+    
