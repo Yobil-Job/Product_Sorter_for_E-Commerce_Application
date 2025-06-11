@@ -87,15 +87,5 @@ To compile and run this application, follow these steps:
     ./home.exe
     ```
 
- Here is a **short summary** of your project based on the latest `README.md` content:
-
----
-
-### 🧾 Project Summary
-
-**Product Sorter for E-Commerce Application** is a C++ console-based project developed as part of the Data Structures and Algorithms course at Arba Minch University. It allows users to view and sort products by price and rating, and includes a module to test and compare five classic sorting algorithms (Insertion, Selection, Bubble, Merge, and Quick Sort). The application emphasizes both practical sorting functionality in an e-commerce context and algorithmic learning through interactive demonstrations.
-
----
-
 
     
