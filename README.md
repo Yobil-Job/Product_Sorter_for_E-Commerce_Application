@@ -86,6 +86,9 @@ To compile and run this application, follow these steps:
     ```bash
     ./home.exe
     ```
+ # Acknowledgments
+
+We would like to extend our sincere thanks to our instructor, [yitulema@gmail.com], for assigning this project and encouraging collaboration among students. This opportunity not only helps us apply what we've learned but also fosters valuable teamwork and real-world development practices.
 
 
     
