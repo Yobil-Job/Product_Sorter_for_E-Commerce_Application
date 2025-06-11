@@ -27,7 +27,7 @@ Each team member played a vital role in the successful completion of this projec
     *   Played a crucial role in identifying and resolving various bugs, and introduced innovative implementation techniques to improve code quality and efficiency.
     *  Actively participated 
    
-### 3. Yordanos Tekalign(ID: NSR/1630/16)    github: (yordanos1219)
+### 3. Yordanos Tekalign(ID: NSR/1630/16)    github: (soliana)
 *   **Role**: Algorithm Developer.
 *   **Key Contributions**:
     *   Developed and implemented the `selection.cpp` module, containing the Selection Sort algorithm.
