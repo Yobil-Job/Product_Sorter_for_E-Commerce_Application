@@ -156,7 +156,7 @@ To compile and run this application, follow these steps:
     <td align="center"><b>Naol Birhanu</b><br><sub>Communication Lead & Developer</sub></td>
     <td align="center"><b>Yordanos Tekalign</b><br><sub>Algorithm Developer</sub></td>
     <td align="center"><b>Abeje Goshu</b><br><sub>Algorithm Developer</sub></td>
-    <td align="center"><b>Yemisirach</b><br><sub>Algorithm Developer</sub></td>
+    <td align="center"><b>Yemisirach Girma</b><br><sub>Algorithm Developer</sub></td>
     <td align="center"><b>Kibra Gebretsadkan</b><br><sub>Algorithm Developer</sub></td>
   </tr>
 </table>
