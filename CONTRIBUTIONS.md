@@ -1,97 +1,162 @@
-<h1 align="center">🤝 Project Contributions 🤝</h1>
-
 <p align="center">
-  This document provides a detailed breakdown of the contributions made by each team member to the "Implementing a Product Sorter for an E-Commerce Application" project.
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Meet%20the%20Contributors&fontSize=45&animation=twinkling"/>
 </p>
 
----
+<h1 align="center">🤝 Project Contributions 🤝</h1>
+
+<p align="center" style="font-size:1.2em; color:#555;">
+  <i>"Great projects are built by great teams!"</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributors-6-brightgreen" alt="Contributors Badge"/>
+  <img src="https://img.shields.io/badge/Collaboration-GitHub-blueviolet" alt="Collaboration Badge"/>
+</p>
+
+<hr/>
 
 ## 👥 Team Members and Their Roles
 
-Each team member played a vital role in the successful completion of this project. Below are their specific contributions and responsibilities.
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>Eyob Weldetensay</b><br/>
+      <sub>Project Lead & Architect</sub>
+      <br/>
+      <img src="https://github.com/Yobil-job.png" width="80" style="border-radius:50%"/>
+      <br/>
+      <details>
+        <summary><b>Contributions</b></summary>
+        <ul>
+          <li>Designed and structured the entire project codebase from the ground up.</li>
+          <li>Authored foundational components: <code>home.cpp</code>, <code>ecommerce.cpp</code>, <code>merge.cpp</code>, <code>product.cpp</code>, <code>sort_test.cpp</code>.</li>
+          <li>Developed all essential header files (<code>.h</code> files).</li>
+          <li>Organized and facilitated team meetings.</li>
+        </ul>
+      </details>
+    </td>
+    <td align="center">
+      <b>Naol Birhanu</b><br/>
+      <sub>Communication Lead & Developer</sub>
+      <br/>
+      <img src="https://github.com/naol-e.png" width="80" style="border-radius:50%"/>
+      <br/>
+      <details>
+        <summary><b>Contributions</b></summary>
+        <ul>
+          <li>Facilitated effective communication among team members.</li>
+          <li>Implemented <code>quick.cpp</code> (Quick Sort algorithm).</li>
+          <li>Developed <code>sort_by_rating_ecommerce.cpp</code>.</li>
+          <li>Bug fixes and implementation improvements.</li>
+        </ul>
+      </details>
+    </td>
+    <td align="center">
+      <b>Yordanos Tekalign</b><br/>
+      <sub>Algorithm Developer</sub>
+      <br/>
+      <img src="https://github.com/yordanos1219.png" width="80" style="border-radius:50%"/>
+      <br/>
+      <details>
+        <summary><b>Contributions</b></summary>
+        <ul>
+          <li>Developed <code>selection.cpp</code> (Selection Sort algorithm).</li>
+        </ul>
+      </details>
+    </td>
+    <td align="center">
+      <b>Abeje Goshu</b><br/>
+      <sub>Algorithm Developer</sub>
+      <br/>
+      <img src="https://github.com/abeloper.png" width="80" style="border-radius:50%"/>
+      <br/>
+      <details>
+        <summary><b>Contributions</b></summary>
+        <ul>
+          <li>Developed <code>bubble.cpp</code> (Bubble Sort algorithm).</li>
+        </ul>
+      </details>
+    </td>
+    <td align="center">
+      <b>Yemisirach</b><br/>
+      <sub>Algorithm Developer</sub>
+      <br/>
+      <img src="https://github.com/olyam-713.png" width="80" style="border-radius:50%"/>
+      <br/>
+      <details>
+        <summary><b>Contributions</b></summary>
+        <ul>
+          <li>Developed <code>sort_by_price_ecommerce.cpp</code> (sorting by price).</li>
+        </ul>
+      </details>
+    </td>
+    <td align="center">
+      <b>Kibra Gebretsadkan</b><br/>
+      <sub>Algorithm Developer</sub>
+      <br/>
+      <img src="https://github.com/hewig21.png" width="80" style="border-radius:50%"/>
+      <br/>
+      <details>
+        <summary><b>Contributions</b></summary>
+        <ul>
+          <li>Developed <code>insertion.cpp</code> (Insertion Sort algorithm).</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
 
-### 1. Eyob Weldetensay (ID: NSR/339/16)    github: (Yobil-job)
-*   **Role**: Project Lead, Architect, and Core Developer.
-*   **Key Contributions**:
-    *   Designed and structured the entire project codebase from the ground up.
-    *   Authored foundational components: `home.cpp` (main application flow), `ecommerce.cpp` (e-commerce logic), `merge.cpp` (Merge Sort implementation), `product.cpp` (product data management), and `sort_test.cpp` (sorting algorithm testing framework).
-    *   Developed all essential header files (`.h` files) to ensure modularity and proper linking.
-    *   Organized and facilitated team meetings, ensuring smooth project progression and task coordination.
-
-### 2. Naol Birhanu(ID: NSR/753/16)   github: (naol-e)
-*   **Role**: Communication Lead and Algorithm Developer.
-*   **Key Contributions**:
-    *   Facilitated effective communication channels among all team members, ensuring everyone was aligned.
-    *   Implemented the `quick.cpp` module, providing a robust Quick Sort algorithm.
-    *   Developed `sort_by_rating_ecommerce.cpp`, enabling product sorting based on customer ratings within the e-commerce application.
-    *   Played a crucial role in identifying and resolving various bugs, and introduced innovative implementation techniques to improve code quality and efficiency.
-    *  Actively participated 
-   
-### 3. Yordanos Tekalign(ID: NSR/1630/16)    github: (soliana)
-*   **Role**: Algorithm Developer.
-*   **Key Contributions**:
-    *   Developed and implemented the `selection.cpp` module, containing the Selection Sort algorithm.
-    *   Actively participated
-
-### 4. Abeje Goshu(ID: NSR/017/16)   github: (abeloper )
-*   **Role**: Algorithm Developer.
-*   **Key Contributions**:
-    *   Developed and implemented the `bubble.cpp` module, containing the Bubble Sort algorithm.
-    *   Actively participated
-
-### 5. Yemisirach(ID: NSR/1616/16)   github: (Olyam-713)
-*   **Role**: Algorithm Developer. 
-*   **Key Contributions**:
-    *   Developed and implemented `sort_by_price_ecommerce.cpp`, handling the sorting of products by price within the e-commerce application.
-    *  contribute by providing way to beautify the console app 
-
-### 6. Kibra Gebretsadkan  github: (hewig21)
-*   **Role**: Algorithm Developer.
-*   **Key Contributions**:
-    *   Developed and implemented the `insertion.cpp` module, containing the Insertion Sort algorithm.
-
----
+<hr/>
 
 ## 🔗 GitHub Collaboration and Instructor Access
-Active participation, transparent contributions, and clear documentation on GitHub are paramount for this project. The instructor, `yitulema@gmail.com`, has been granted collaborative access to the repository to monitor and evaluate individual and team contributions.
+<p align="center">
+  <img src="https://img.shields.io/badge/Instructor%20Access-Granted-blue" alt="Instructor Access"/>
+</p>
 
----
+Active participation, transparent contributions, and clear documentation on GitHub are paramount for this project. The instructor, <b>yitulema@gmail.com</b>, has been granted collaborative access to the repository to monitor and evaluate individual and team contributions.
 
-## 📜 Commit History 
+<hr/>
 
 
+<summary><b>📜 Commit History </b></summary>
 
-### Eyob Weldetensay
-*   **Branch**: `main` (or relevant feature branch)
-    *   `Commit SHA`: Initial project setup and core structure.
-    *   `Commit SHA`: Implemented home page and main menu logic.
-    *   `Commit SHA`: Developed e-commerce application framework.
-    *   `Commit SHA`: Added product data management and view functionality.
-    *   `Commit SHA`: Integrated Merge Sort for testing.
-    *   `Commit SHA`: Created all .h header files.
+### Eyob Weldetensay(NSR/339/16)
+*   <b>Branch:</b> <code>main</code> (or relevant feature branch)
+    *   <code>Commit SHA</code>: Initial project setup and core structure.
+    *   <code>Commit SHA</code>: Implemented home page and main menu logic.
+    *   <code>Commit SHA</code>: Developed e-commerce application framework.
+    *   <code>Commit SHA</code>: Added product data management and view functionality.
+    *   <code>Commit SHA</code>: Integrated Merge Sort for testing.
+    *   <code>Commit SHA</code>: Created all .h header files.
 
-### Naol Birhanu
-*   **Branch**: `feature/quick-sort` (or relevant feature branch)
-    *   `Commit SHA`: Implemented Quick Sort algorithm in quick.cpp.
-    *   `Commit SHA`: Developed sort by rating functionality.
-    *   `Commit SHA`: Bug fix: Addressed data input issue.
-    *   `Commit SHA`: Refactored product sorting logic.
+### Naol Birhanu(ID: NSR/753/16)github: (naol-e)
+*   <b>Branch:</b> <code>feature/quick-sort</code> (or relevant feature branch)
+    *   <code>Commit SHA</code>: Implemented Quick Sort algorithm in quick.cpp.
+    *   <code>Commit SHA</code>: Developed sort by rating functionality.
+    *   <code>Commit SHA</code>: Bug fix: Addressed data input issue.
+    *   <code>Commit SHA</code>: Refactored product sorting logic.
 
-### Yordanos Tekalign
-*   **Branch**: `feature/selection-sort`
-    *   `Commit SHA`: Implemented Selection Sort algorithm.
+### Yordanos Tekalign(ID: NSR/1630/16) github: (soliana)
+*   <b>Branch:</b> <code>feature/selection-sort</code>
+    *   <code>Commit SHA</code>: Implemented Selection Sort algorithm.
 
-### Abeje Goshu
-*   **Branch**: `feature/bubble-sort`
-    *   `Commit SHA`: Implemented Bubble Sort algorithm.
+### Abeje Goshu(ID: NSR/017/16) github: (abeloper )
+*   <b>Branch:</b> <code>feature/bubble-sort</code>
+    *   <code>Commit SHA</code>: Implemented Bubble Sort algorithm.
 
-### Yemisirach
-*   **Branch**: `feature/sort-by-price`
-    *   `Commit SHA`: Implemented sorting by price in e-commerce.
+### Yemisirach Girma(ID: NSR/1616/16) github: (Olyam-713)
+*   <b>Branch:</b> <code>feature/sort-by-price</code>
+    *   <code>Commit SHA</code>: Implemented sorting by price in e-commerce.
 
 ### Kibra Gebretsadkan
-*   **Branch**: `feature/insertion-sort`
-    *   `Commit SHA`: Implemented Insertion Sort algorithm.
+*   <b>Branch:</b> <code>feature/insertion-sort</code>
+    *   <code>Commit SHA</code>: Implemented Insertion Sort algorithm.
 
----
+
+
+<hr/>
+
+<p align="center">
+  <b>Made with ❤️ by the DSA Project Team at Arba Minch University</b>
+</p>
 
