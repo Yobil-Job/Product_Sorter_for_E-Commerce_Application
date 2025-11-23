@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>A visually engaging C++ console application for e-commerce product sorting and sorting algorithm comparison.</b>
+  <b>A visually engaging C++ console application for e-commerce product sorting and sorting  algorithm comparison.</b>
 </p>
 
 <p align="center" style="font-size:1.2em; color:#555;">
